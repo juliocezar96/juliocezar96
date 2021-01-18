@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/julio-cezar-39a318195/)](https://www.linkedin.com/in/julio-cezar-39a318195/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocr.jc38@gmail.com)](mailto:juliocr.jc38@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/https://www.facebook.com/ceezar.j)](https://www.facebook.com/ceezar.j)
