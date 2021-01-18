@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+81+NUMERO_de_telefone&text=Ola!)](https://api.whatsapp.com/send?phone=seu_telefone_55+81+NUMERO_de_telefone&text=Ola!)-->
 # Julio Cezar :man_technologist:
 
-## About me 
+## Sobre mim 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/julio-cezar-39a318195/)](https://www.linkedin.com/in/julio-cezar-39a318195/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocr.jc38@gmail.com)](mailto:juliocr.jc38@gmail.com)
