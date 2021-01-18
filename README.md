@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+<!--### Hi there 👋
+
 **juliocezar96/juliocezar96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Julio Cezar :man_technologist:
+
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/juliocezar96)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/julio-cezar-39a318195/)](https://www.linkedin.com/in/https://www.linkedin.com/in/julio-cezar-39a318195/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+81+992014818_de_telefone&text=Ola!)](https://api.whatsapp.com/send?phone=seu_telefone_55+81+992014818_de_telefone&text=Ola!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocr.jc38@gmail.com)](mailto:soares.juliocr.jc38@gmail.com)
