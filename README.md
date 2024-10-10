@@ -3,7 +3,7 @@
 </h2>
 
 <div>
-  I am a <strong>Software Engineer at Liferay</strong>. Currently, trying to stablish myself as Front-end and Software developer with Javascript. Looking forward to develop my skills and network.
+  I am <strong>Software Engineer</strong>.
 </div>
 
 #
